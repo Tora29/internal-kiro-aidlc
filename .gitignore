@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local settings (not for sharing)
+.claude/settings.local.json
+.kiro/settings.local.json
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
